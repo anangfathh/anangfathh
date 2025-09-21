@@ -60,7 +60,7 @@ const anangfathh = {
 #### 🚀 DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -86,14 +86,14 @@ const anangfathh = {
 
 ---
 
-### 🌟 Featured Projects
+<!-- ### 🌟 Featured Projects
 
 <div align="center">
-  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anangfathh&repo=awesome-project&theme=tokyonight&hide_border=true)](https://github.com/anangfathh/awesome-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anangfathh&repo=cool-app&theme=tokyonight&hide_border=true)](https://github.com/anangfathh/cool-app)
 
-</div>
+</div> -->
 
 ---
 
@@ -154,23 +154,23 @@ open_to_collaborate:
 🌱 **Learning:** Advanced system design patterns  
 👯 **Collaboration:** Open to exciting projects and hackathons  
 🤔 **Help with:** JavaScript, React, Node.js, and Python  
-💬 **Ask me about:** Full-stack development, clean code practices  
+💬 **Ask me about:** Deep Learning, Full-stack development  
 📚 **Hobbies:** Sport, Reading tech blogs, gaming, and photography  
 ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
 
 </div>
 
----
+<!-- ---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  
+
 ![Snake animation](https://github.com/anangfathh/anangfathh/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
----
+--- -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anangfathh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
