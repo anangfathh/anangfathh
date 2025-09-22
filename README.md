@@ -13,7 +13,7 @@
 ```javascript
 const anangfathh = {
   location: "Indonesia 🇮🇩",
-  role: "Full Stack Developer & Tech Enthusiast",
+  role: "AI Engineer, Full Stack Developer & Tech Enthusiast",
   passions: ["Clean Code", "Problem Solving", "Learning New Technologies"],
   currentFocus: "Building scalable web applications",
   funFact: "I debug with console.log and I'm not ashamed! �",
@@ -33,6 +33,7 @@ const anangfathh = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### 🤖 AI Development & Libraries
 
@@ -46,7 +47,6 @@ const anangfathh = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-
 
 #### 🌐 Frontend Development
 
