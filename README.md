@@ -87,6 +87,7 @@ const anangfathh = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anangfathh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anangfathh&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
 </div>
 
@@ -98,7 +99,7 @@ const anangfathh = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anangfathh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
----
+<!-- --- -->
 
 <!-- ### 🌟 Featured Projects
 
