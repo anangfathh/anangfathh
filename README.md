@@ -64,6 +64,7 @@ const anangfathh = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-2300ADD8?style=for-the-badge&logo=gin&logoColor=white)
 
 #### 🗄️ Databases
 
