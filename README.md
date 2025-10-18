@@ -59,6 +59,7 @@ const anangfathh = {
 
 #### ⚙️ Backend Development
 
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -116,8 +117,8 @@ const anangfathh = {
 
 ```yaml
 current_projects:
-  - name: "Building a full-stack web application"
-    tech: ["React", "Node.js", "MongoDB"]
+  - name: "Building a full-stack web application integrated with AI"
+    tech: ["Vue.js", "GO", "Python"]
     status: "In Progress"
 
   - name: "Learning cloud technologies"
@@ -168,10 +169,10 @@ open_to_collaborate:
 🔭 **Currently exploring:** Web3 and AI
 🌱 **Learning:** Advanced system design patterns  
 👯 **Collaboration:** Open to exciting projects and hackathons  
-🤔 **Help with:** JavaScript, React, Node.js, and Python  
+🤔 **Help with:** JavaScript, Node.js,Python, GO, and Laravel  
 💬 **Ask me about:** Deep Learning, Full-stack development  
 📚 **Hobbies:** Sport, Reading tech blogs, gaming, and photography  
-⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
+⚡ **Fun fact:** I'm culer and chelsea fan!
 
 </div>
 
